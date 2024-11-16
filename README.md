@@ -182,7 +182,7 @@ Além da web, também é possivel utilizar um client mobile como o app MyMQTT pa
 
 ## Video do Projeto Rodando
 
-[Assista ao vídeo do nosso projeto rodando aqui!](https://www.youtube.com/watch?v=n_9yES4eJCk)
+[Assista ao vídeo do nosso projeto rodando aqui!](https://youtu.be/QfOPpIueNgk)
 
 ## Imagens Projeto Feito
 
